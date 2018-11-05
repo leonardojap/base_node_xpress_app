@@ -1,0 +1,8 @@
+{
+  "name": "Proyecto base node/xpress",
+  "description": "template base para comnzar a desarrollar una app en xpress 4",
+  "repository": "https://github.com/leonardojap/base_node_xpress_app",
+  "logo": "",
+  "keywords": ["node", "express", "Leonardo"],
+  "image": ""
+}
